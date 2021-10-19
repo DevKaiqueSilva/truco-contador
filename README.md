@@ -1,5 +1,5 @@
 # TRUCO CONTADOR - TRUCOUNT 🃏
-![Alt text](https://github.com/DevKaiqueSilva/truco-contador/blob/main/src/assets/app.jpg "Aplicativo")
+![Alt text](https://github.com/DevKaiqueSilva/truco-contador/blob/main/src/assets/app.png "Aplicativo")
 
 <p>Aplicativo Mobile desenvolvido em React Native, com objetivo de auxiliar na pontuação de uma partida de truco. Funcionalidades:</p>
 
